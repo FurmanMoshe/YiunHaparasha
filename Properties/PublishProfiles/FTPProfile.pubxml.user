@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4NDj40d0+kGOCqwdt/ACLwAAAAACAAAAAAAQZgAAAAEAACAAAADTFcJ74jPIIuw/XV3iH5tTGdvmTRh8Xqa+I61aDFusvQAAAAAOgAAAAAIAACAAAACiE5HvAOiFvL8vOFcsj5PqQER1W7jmDd1dm2/8SqAapyAAAABWvLvNPA1enw0oEFaMdE+IQ2uB0w6nKBOjlYAixGTCVEAAAACE/XbpgU1ofchhfQS+AKS8/zJ8hAapyE+nyWA9llz1QAtwaZGwsmSJiW1NFiPUqnftw28Iv/4bSFc+SrpKDP7P</EncryptedPassword>
+    <_PublishTargetUrl>ftp://80.244.168.75</_PublishTargetUrl>
+    <History>False|2023-07-25T23:24:09.2447338Z;False|2023-07-26T02:21:17.6701811+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>04/15/2020 01:39:12</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>11/20/2021 00:02:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>10/13/2022 22:43:04</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/13/2022 22:20:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
